@@ -37,8 +37,8 @@ Download all components within this repository. Once all files are available loc
 
 ## CSS Structure
 Based on the requirements highlighted in /dasmotos-arts_redline.webp, the following elements would be modified through CSS:
-- all - font-family: Helventica
-- h1 - font-size: 100px; color: khaki; text-align: center;
+- all - font-family: Helvetica
+- h1 - font-size: 100px; color: khaki; text-align: center; use pattern.webp as background
 - h2 - font-size: 32px; color: white;
 - a - color: blue
 - h1, h2, p a - font-weight: bold;
